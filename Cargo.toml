@@ -2,5 +2,9 @@
 name = "strum-lite"
 version = "0.1.0"
 edition = "2024"
-
-[dependencies]
+description = "Lightweight declarative macro for sets of strings."
+categories = ["rust-patterns", "parsing", "no-std::no-alloc", "no-std"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/aatifsyed/strum-lite"
+documentation = "https://docs.rs/strum-lite"
+homepage = "https://crates.io/crates/strum-lite"
