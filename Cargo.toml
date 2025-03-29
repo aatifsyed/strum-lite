@@ -1,6 +1,6 @@
 [package]
 name = "strum-lite"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "Lightweight declarative macro for sets of strings."
 categories = ["rust-patterns", "parsing", "no-std::no-alloc", "no-std"]
